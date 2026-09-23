@@ -1,0 +1,29 @@
+{
+  "id": "/",
+  "name": "المحرر - معالجة وتحويل المستندات",
+  "short_name": "المحرر",
+  "description": "منصة شاملة لمعالجة وتعديل وتحويل وتوقيع ملفات PDF والمستندات محلياً بخصوصية تامة بدون اتصال بالإنترنت",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#121214",
+  "theme_color": "#2563eb",
+  "lang": "ar",
+  "dir": "rtl",
+  "categories": ["productivity", "utilities", "business"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}

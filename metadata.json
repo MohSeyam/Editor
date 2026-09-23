@@ -1,0 +1,6 @@
+{
+  "name": "المحرر",
+  "description": "معالجة وتحويل المستندات محلياً بخصوصية تامة",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
