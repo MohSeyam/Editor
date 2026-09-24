@@ -29,6 +29,7 @@ export const Header: React.FC<HeaderProps> = ({
 }) => {
   const t = getTranslation(lang);
 
+
   return (
     <header
       id="app-header"

@@ -1315,8 +1315,8 @@ export default function App() {
                 </h1>
                 <p className="text-xs sm:text-sm text-neutral-600 dark:text-neutral-400">
                   {lang === 'ar' 
-                    ? 'معالجة الملفات بأمان' 
-                    : 'Process files securely'}
+                    ? 'معالجة الملفات والمستندات محلياً بخصوصية تامة' 
+                    : 'Process and convert files securely on your device'}
                 </p>
               </div>
 
