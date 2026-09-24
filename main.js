@@ -1,10 +1,6 @@
-import { app, BrowserWindow } from 'electron';
-import { spawn } from 'node:child_process';
-import path from 'node:path';
-import { fileURLToPath } from 'node:url';
-
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
+const { app, BrowserWindow } = require('electron');
+const { spawn } = require('node:child_process');
+const path = require('node:path');
 
 let serverProcess = null;
 
